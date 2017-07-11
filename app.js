@@ -1,0 +1,1 @@
+angular.module('appCotacao', ['controller.api', 'controller.api'])
